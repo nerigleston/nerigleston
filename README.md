@@ -24,5 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical"/>
 </div>
 <div>
-  <img height="300em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerigleston&theme=radical"/>
+  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerigleston&theme=radical"/>
 </div>
