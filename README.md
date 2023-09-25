@@ -23,6 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerigleston&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical"/>
 </div>
-<div>
+<!-- <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerigleston&theme=radical"/>
-</div>
+</div> -->
