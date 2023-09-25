@@ -14,6 +14,10 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nerigleston01@outlook.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerigleston/)
 
+### Cloud
+
+[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nerigleston)
+
 ### Estatísticas do meu GitHub
 <div>
   <a href="https://github.com/nerigleston">
