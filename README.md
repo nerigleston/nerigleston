@@ -1,9 +1,7 @@
 ### Sobre mim
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nerigleston" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nerigleston?trk=profile-badge">Nerigleston Filho</a></div>
-             
-
+- Estudante de Análise e Desenvolvimento de Sistema
+            
 ### Contato
 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583987049025)
