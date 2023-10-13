@@ -15,10 +15,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical"/>
 </div>
 
-### Sistema operacional - Cloud
+### Sistema operacional
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-[![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nerigleston)
 
 <!-- <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nerigleston&theme=radical"/>
