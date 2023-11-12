@@ -30,4 +30,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+<div align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/nerigleston/count.svg"/>
+</div>
+
 
