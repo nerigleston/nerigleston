@@ -1,8 +1,8 @@
-# Sobre mim
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 - Estudante de Análise e Desenvolvimento de Sistema
             
-# Contato
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583987049025)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nerifilho1256@gmail.com)
@@ -12,8 +12,7 @@
 <div>
   <a href="https://github.com/nerigleston">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerigleston&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neriglestonr&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/>            
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical"/>      
 </div>
 
 # Sistema operacional
