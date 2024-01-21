@@ -2,7 +2,6 @@
 
 - 👋 Oi, Eu sou @nerigleston
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
-<a href="https://app.daily.dev/nerifilho"><img src="https://api.daily.dev/devcards/373c73e50d1b4af595c917bc6271f7b3.png?r=fkh" width="100" alt="Nerigleston da Silva Costa Filho's Dev Card"/></a>
             
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contatos</b>
 
@@ -33,6 +32,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<a href="https://app.daily.dev/nerifilho"><img src="https://api.daily.dev/devcards/373c73e50d1b4af595c917bc6271f7b3.png?r=fkh" width="200" alt="Nerigleston da Silva Costa Filho's Dev Card"/></a>
 
 <div align="center"> 
   Visitor count<br>
