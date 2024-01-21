@@ -2,7 +2,7 @@
 
 - 👋 Oi, Eu sou @nerigleston
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
-<a href="https://app.daily.dev/nerifilho"><img src="https://api.daily.dev/devcards/373c73e50d1b4af595c917bc6271f7b3.png?r=fkh" width="400" alt="Nerigleston da Silva Costa Filho's Dev Card"/></a>
+<a href="https://app.daily.dev/nerifilho"><img src="https://api.daily.dev/devcards/373c73e50d1b4af595c917bc6271f7b3.png?r=fkh" width="100" alt="Nerigleston da Silva Costa Filho's Dev Card"/></a>
             
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contatos</b>
 
