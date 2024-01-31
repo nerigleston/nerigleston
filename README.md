@@ -1,7 +1,7 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mim</b>
 
 - 👋 Oi, Eu sou @nerigleston
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 📚👨‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas
             
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contatos</b>
 
