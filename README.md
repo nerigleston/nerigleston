@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou **Nerigleston**!
 
-Desenvolvedor de sistemas com foco em análise e ciência de dados. Apaixonado por tecnologia, inovação e resolução de problemas complexos através de código.
-
 🎓 **Formação**: Graduado em Análise e Desenvolvimento de Sistemas  
 📊 **Pós-Graduação**: Especializando em Data Science  
 
@@ -9,7 +7,7 @@ Desenvolvedor de sistemas com foco em análise e ciência de dados. Apaixonado p
 
 ## 🛠️ Habilidades e Tecnologias
 
-Aqui estão algumas das tecnologias que domino, baseadas nos meus projetos:
+Aqui estão algumas das tecnologias que domino:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
