@@ -50,14 +50,6 @@ Fique à vontade para entrar em contato comigo!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nerigleston&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nerigleston&theme=radical&no-frame=true" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 👀 Contador de Visitantes
