@@ -5,8 +5,6 @@ Desenvolvedor de sistemas com foco em análise e ciência de dados. Apaixonado p
 🎓 **Formação**: Graduado em Análise e Desenvolvimento de Sistemas  
 📊 **Pós-Graduação**: Especializando em Data Science  
 
-![Programmer GIF](https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif)
-
 ---
 
 ## 🛠️ Habilidades e Tecnologias
@@ -43,8 +41,6 @@ Fique à vontade para entrar em contato comigo!
   </a>
 </div>
 
-![Contacts GIF](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -61,8 +57,6 @@ Fique à vontade para entrar em contato comigo!
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nerigleston&theme=radical&no-frame=true" alt="GitHub Trophies" />
 </div>
-
-![GitHub Stats GIF](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
 
 ---
 
