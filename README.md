@@ -51,11 +51,3 @@ Fique à vontade para entrar em contato comigo!
 </div>
 
 ---
-
-## 👀 Contador de Visitantes
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nerigleston/count.svg" alt="Visitor Count"/>
-</div>
-
----
