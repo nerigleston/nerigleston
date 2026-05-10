@@ -28,8 +28,7 @@ const nerigleston = {
     "RAG & Hybrid Search (BM25 + Vector + RRF)",
     "Plataformas multi-tenant em Kubernetes",
     "Model Context Protocol (MCP)"
-  ],
-  funFact: "Torcedor apaixonado do Treze FC ⚫⚪ e entusiasta de café especial ☕"
+  ]
 };
 ```
 
