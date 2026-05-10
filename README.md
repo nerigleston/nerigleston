@@ -6,9 +6,6 @@
 
 *Construindo soluções inteligentes que conectam dados, IA e experiências de usuário.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nerigleston&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nerigleston)
-[![GitHub followers](https://img.shields.io/github/followers/nerigleston?label=Followers&style=social)](https://github.com/nerigleston)
-
 </div>
 
 ---
@@ -83,33 +80,6 @@ const nerigleston = {
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🩺 **OftBook** | Plataforma RAG para oftalmologia com Hybrid Search (BM25 + vector + RRF) | LangGraph, pgvector, Gemini |
-| 📊 **Altona** | Text-to-SQL BI Tool para Oracle DB | LangGraph, Gemini, LangSmith |
-| 🔌 **eGestor MCP** | Servidor MCP para integração com sistema de gestão | FastMCP, Python, SSE |
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerigleston&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerigleston&theme=radical&hide_border=true" alt="GitHub Streak" height="170em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerigleston&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nerigleston&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
