@@ -92,8 +92,6 @@ const nerigleston = {
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | 🩺 **OftBook** | Plataforma RAG para oftalmologia com Hybrid Search (BM25 + vector + RRF) | LangGraph, pgvector, Gemini |
-| 🧠 **IA Assist** | SaaS B2B multi-tenant para soluções de IA generativa | Kubernetes, FastAPI, PostgreSQL |
-| 🛒 **Exiby** | Catálogo virtual com IA — submetido à incubadora Porto Digital | Next.js, FastAPI, LLMs |
 | 📊 **Altona** | Text-to-SQL BI Tool para Oracle DB | LangGraph, Gemini, LangSmith |
 | 🔌 **eGestor MCP** | Servidor MCP para integração com sistema de gestão | FastMCP, Python, SSE |
 
