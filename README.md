@@ -21,13 +21,44 @@ const nerigleston = {
     postgrad:   "Ciência de Dados"
   },
   currentFocus: [
-    "Agentes de IA com LangGraph",
+    "Jangada AI — biblioteca open source de abstração de LLMs",
+    "Observabilidade e governança de LLMs em produção",
     "RAG & Hybrid Search (BM25 + Vector + RRF)",
-    "Plataformas multi-tenant em Kubernetes",
     "Model Context Protocol (MCP)"
   ]
 };
 ```
+
+---
+
+## 🛶 Projeto em destaque: Jangada AI
+
+**Uma camada fina e adaptável sobre os SDKs de LLM** — troque provider, modelo ou api_key sem reescrever o resto do código. Open source, documentação em PT-BR, com observability nativa (1 linha no `.env`) e servidor MCP próprio hospedado.
+
+<div>
+  <img src="https://img.shields.io/pypi/v/jangada-ai?style=for-the-badge&color=0d9488&label=PyPI" alt="PyPI version"/>
+  <img src="https://img.shields.io/badge/license-MIT-0d9488?style=for-the-badge" alt="MIT License"/>
+  <img src="https://img.shields.io/badge/status-1.x%20SemVer-0d9488?style=for-the-badge" alt="Status"/>
+</div>
+
+- 🌐 **Site:** [jangada.dev.br](https://jangada.dev.br)
+- 📚 **Docs:** [docs.jangada.dev.br](https://docs.jangada.dev.br)
+- 📦 **PyPI:** [pypi.org/project/jangada-ai](https://pypi.org/project/jangada-ai/)
+
+```python
+from jangada_ai import LLM
+
+# troque o provider numa linha — o resto do código não muda
+llm = LLM("anthropic", "claude-opus-4-8").with_fallback(
+    LLM("openai", "gpt-5"),
+)
+resp = llm.complete("Explique {{tema}} em 2 frases.", tema="MCP")
+print(resp.text, resp.cost)
+```
+
+**Suporta:** Anthropic, OpenAI, Groq, Gemini, Mistral, OpenRouter + gateways AWS Bedrock, Azure OpenAI e Vertex AI — todos pela mesma API. Structured output, vision, áudio, documentos (pdf/docx/csv/xlsx), tools, RAG (pgvector/Mongo + busca híbrida), retry + fallback, custo por chamada, fluxos sequenciais e orquestração em grafo (roteamento + paralelo).
+
+🧩 **Doc no editor via MCP:** conecta a documentação completa da Jangada direto no Claude Code, Cursor ou Claude Desktop, pra o assistente codar com a API atual sem inventar assinatura de função.
 
 ---
 
@@ -104,7 +135,7 @@ const nerigleston = {
   <a href="mailto:nerifilho1256@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/5583987049025" target="_blank">
+  <a href="https://wa.me/5583991230146" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
