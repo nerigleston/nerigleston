@@ -6,6 +6,8 @@
 
 *Construindo soluções inteligentes que conectam dados, IA e experiências de usuário.*
 
+[**nerifilho.com.br**](https://nerifilho.com.br) · consultoria e desenvolvimento freelance
+
 </div>
 
 ---
@@ -15,6 +17,7 @@
 ```typescript
 const nerigleston = {
   location: "João Pessoa, PB 🇧🇷",
+  site:     "nerifilho.com.br",
   role: "Backend Dev & GenAI Solutions Architect",
   education: {
     graduation: "Análise e Desenvolvimento de Sistemas",
@@ -59,6 +62,19 @@ print(resp.text, resp.cost)
 **Suporta:** Anthropic, OpenAI, Groq, Gemini, Mistral, OpenRouter + gateways AWS Bedrock, Azure OpenAI e Vertex AI — todos pela mesma API. Structured output, vision, áudio, documentos (pdf/docx/csv/xlsx), tools, RAG (pgvector/Mongo + busca híbrida), retry + fallback, custo por chamada, fluxos sequenciais e orquestração em grafo (roteamento + paralelo).
 
 🧩 **Doc no editor via MCP:** conecta a documentação completa da Jangada direto no Claude Code, Cursor ou Claude Desktop, pra o assistente codar com a API atual sem inventar assinatura de função.
+
+---
+
+## 💼 No que eu trabalho
+
+Além do open source, atendo empresas como freelance, em quatro frentes:
+
+- [**Consultoria e diagnóstico**](https://nerifilho.com.br/consultoria-de-ia): onde automatizar, onde IA compensa e o que construir primeiro, com plano priorizado
+- [**IA em produção**](https://nerifilho.com.br/ia-em-producao): RAG com busca híbrida e resposta verificada, agentes com grafo de estados, Text-to-SQL auditável
+- [**Sistemas sob medida**](https://nerifilho.com.br/sistemas-sob-medida): backend, API, integração entre sistemas existentes, automação de trabalho manual
+- [**Sites e landing pages**](https://nerifilho.com.br/landing-pages): página estática, SEO técnico, sem script de terceiro no caminho crítico
+
+Escrevo sobre isso no [blog](https://nerifilho.com.br/blog), com uma newsletter de tecnologia toda segunda.
 
 ---
 
@@ -129,6 +145,9 @@ print(resp.text, resp.cost)
 ## 📫 Vamos nos conectar?
 
 <div align="center">
+  <a href="https://nerifilho.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-232323?style=for-the-badge&logo=googlechrome&logoColor=white" alt="nerifilho.com.br"/>
+  </a>
   <a href="https://www.linkedin.com/in/nerigleston/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
